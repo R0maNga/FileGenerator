@@ -1,0 +1,15 @@
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\bin\Debug\net6.0\FileGeneration.exe
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\bin\Debug\net6.0\FileGeneration.deps.json
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\bin\Debug\net6.0\FileGeneration.runtimeconfig.json
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\bin\Debug\net6.0\FileGeneration.dll
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\bin\Debug\net6.0\FileGeneration.pdb
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\FileGeneration.csproj.AssemblyReference.cache
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\FileGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\FileGeneration.AssemblyInfoInputs.cache
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\FileGeneration.AssemblyInfo.cs
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\FileGeneration.csproj.CoreCompileInputs.cache
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\FileGeneration.dll
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\refint\FileGeneration.dll
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\FileGeneration.pdb
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\FileGeneration.genruntimeconfig.cache
+C:\Users\R0maNga\source\repos\FileGeneration\FileGeneration\obj\Debug\net6.0\ref\FileGeneration.dll
