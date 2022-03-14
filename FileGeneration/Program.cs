@@ -9,45 +9,19 @@ namespace FileGeneration
 {
     internal class Program
     {
-        static void Main(string[] args)
+         public static async Task Main(string[] args)
         {
+            /*var tempTask1 = new CreateFiles();
+            await tempTask1.generateFiles();
 
-            string path = @"D:\test\";
-            if (Directory.Exists(path))
-            {
-                int i;
-                for (i = 1; i <= 100; i++)
-                {
-                    string FileName = "Test" + i + ".txt";
-                    var newpath = path + FileName;
-                    // Create a file to write to. 
-                    if (!File.Exists(newpath))
-                    {
-                       
-                        
-                            using (StreamWriter sw = File.CreateText(newpath))
-                            {
-                                for (int b = 0; b < 100000; b++)
-                                {
+            var files = Directory.GetFiles(@"D:\test\").Select(fn => Path.GetFileName(fn));
+            string fileNameOutput = @"D:\test\generalFile.txt";
+            FileMerge.mergeFiles(files.ToArray(), fileNameOutput);
 
-                                //sw.WriteLine(RandomInt.randomIntNumbers()+"sd") ;
-
-                                //sw.WriteLine(RandomDouble.randomDoubleNumbers());
-
-                                //sw.WriteLine();
-                                //sw.WriteLine(RandomRuSymbols.randomRuSymbols());
-                                sw.WriteLine("//"+RandomDate.randomDay()+"//"+ RandomEngSymbols.randomEngSymbols()+"//"+ RandomRuSymbols.randomRuSymbols()+"//"+ RandomInt.randomIntNumbers()+"//"+ RandomDouble.randomDoubleNumbers()+"//");
-
-
-                                }
-                                    
-                            }
-                        
-                        
-                    }
-
-                }
-            }
-        }
+            var tempTask = new DeleteStringFromFile();
+            await tempTask.deleteString();*/
+            var addFilesToDataBase = new AddFilesToDb();
+            addFilesToDataBase.AddFilesToDataBase();
+        }   
     }
 }
